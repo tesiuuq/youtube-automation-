@@ -1,0 +1,8 @@
+ollamafreeapi
+edge-tts
+moviepy
+google-auth
+google-auth-oauthlib
+google-api-python-client
+requests
+Pillow
